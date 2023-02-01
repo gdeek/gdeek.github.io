@@ -1,5 +1,6 @@
 source "https://rubygems.org"
-
+gem "wdm", ">= 0.1.0"
+gem "webrick"
 gem "kramdown"
 gem "kramdown-parser-gfm"
 gem "rouge"

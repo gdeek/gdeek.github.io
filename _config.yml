@@ -1,5 +1,5 @@
 # Site Settings
-name: gdeek Portfolio
+name: Tech Adv Campaigns
 title: Portfolio of Deepak Kumar Ganesan
 description: About Deepak
 tags:
@@ -101,5 +101,4 @@ exclude: [
   'README.md'
 ]
 
-# Theme
-version: v3.1.2
+
