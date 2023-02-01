@@ -1,7 +1,7 @@
 ---
-date: 2019-05-16T23:48:05.000Z
+date: 2023-01-31T21:06:00.000Z
 layout: post
-title: Welcome to the desert of the real
+title: Welcome to CS 468 / ADV 492
 subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
